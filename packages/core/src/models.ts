@@ -715,7 +715,7 @@ export const models: Models = {
         endpoint: "https://dashscope.aliyuncs.com/compatible-mode/v1",
         model: {
             [ModelClass.SMALL]: {
-                name: "qwen-turbo",
+                name: "qwen-max",
                 stop: [],
                 maxInputTokens: 128000,
                 maxOutputTokens: 8192,
@@ -724,7 +724,7 @@ export const models: Models = {
                 temperature: 0.6,
             },
             [ModelClass.MEDIUM]: {
-                name: "qwen-plus",
+                name: "qwen-max",
                 stop: [],
                 maxInputTokens: 128000,
                 maxOutputTokens: 8192,
