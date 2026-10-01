@@ -1,7 +1,7 @@
 {
     "name": "claimantAttorney",
     "clients": [],
-    "modelProvider": "ali_bailian",
+    "modelProvider": "deepseek",
     "settings": {
         "secrets": {},
         "voice": {
@@ -35,7 +35,7 @@
         "The household register of Wang Mou5 and the certificate from Jianshan Village Committee in Shuicheng County confirm that John Dow's father, Wang Mou5, has passed away, and his mother, Jin Moumou, needs John Dow to support. His younger brother, Wang Mou6, is a mental patient and also needs John Dow's care.",
         "The disease certificate and medical records issued by Liupanshui Shancheng Psychiatric Hospital, the disability certificate, and the civil mediation statement of Shuicheng County People's Court confirm that John Dow's brother, Wang Mou6, was diagnosed with schizophrenia by Liupanshui Shancheng Psychiatric Hospital and was recognized as a disabled person by the Disabled Persons' Federation of Shuicheng County, with a second - level physical disability. On December 15th, 2015, he divorced his wife Jin Mou through mediation, and their son, Wang1 Mou, is to be raised by Wang Mou6. The defendant, John Dow, is the sole supporter of his brother, Wang Mou6.",
         "The interrogation record of John Dow confirms that the defendant, John Dow, admits the fact of his de facto marriage with Amelia Brown and the fact that he registered his marriage with Ao Mou.",
-        
+
 
         "Article 7 of the Interpretation (I) of the Supreme People's Court on the Application of the Marriage and Family Section of the Civil Code of the People's Republic of China: For men and women who live together in the name of husband and wife without going through marriage registration as required by Article 1049 of the Civil Code and file a lawsuit for divorce, the following different treatments shall be applied: (1) Before February 1, 1994, when the Marriage Registration Administration Regulations of the Ministry of Civil Affairs were promulgated and implemented, if both men and women had met the essential requirements for marriage, it shall be treated as a de facto marriage.",
         "Article 258 of the Criminal Law of the People's Republic of China: Whoever has a spouse and commits bigamy, or knowingly marries a person who has a spouse, shall be sentenced to fixed - term imprisonment of not more than two years or criminal detention.",

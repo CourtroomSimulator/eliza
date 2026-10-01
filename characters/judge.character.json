@@ -1,7 +1,7 @@
 {
     "name": "judge",
     "clients": [],
-    "modelProvider": "ali_bailian",
+    "modelProvider": "deepseek",
     "settings": {
         "secrets": {},
         "voice": {
